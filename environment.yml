@@ -4,3 +4,5 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-r
+  - r-readxl
+  - r-ggplot2
